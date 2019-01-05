@@ -9,11 +9,8 @@
   },
   "dependencies": {
     "gatsby": "^2.0.76",
-    "gatsby-image": "^2.0.22",
     "react": "^16.5.1",
-    "react-dom": "^16.5.1",
-    "react-helmet": "^5.2.0",
-    "react-typography": "^0.16.13"
+    "react-dom": "^16.5.1"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
